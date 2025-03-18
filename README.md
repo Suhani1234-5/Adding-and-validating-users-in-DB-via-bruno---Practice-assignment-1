@@ -6,7 +6,7 @@ Imagine you are developing an online marketplace where buyers and sellers need t
 - Write an mongoose schema to store these three values.
 - Use bcrypt package to hash the password.
 - Save the data in mongodb.
-- send res success.
+- send res success.....
 
 
 # **How to Fork and Set Up Your Repository**
@@ -56,4 +56,5 @@ Imagine you are developing an online marketplace where buyers and sellers need t
 ### **Example Submission**
 
 If your GitHub username is `johnDoe` and the repository name is `assignment-repo`, the submission link would look like this:  
+
 **`https://github.com/johnDoe/assignment-repo`**
